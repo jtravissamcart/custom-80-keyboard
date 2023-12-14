@@ -8,7 +8,8 @@ http://www.apache.org/licenses/LICENSE-2.0
    When Blacksimon started streaming, my username on twitch was 'darkheavenlight', quoted from Romeo and Juliet. 
 
    Simon shortened it to 'Dark' and that's how I became known by that name.
-   
+   https://geekhack.org/index.php?topic=117269.0
+   https://geekhack.org/index.php?topic=81377.0
 ***
 THIRD RELEASE:
 PART 1:
